@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Authentication App</string>
+    <string name="register">Register</string>
+    <string name="login">Log in</string>
+    <string name="account">create a new account</string>
+    <string name="username">Full name</string>
+    <string name="emailAddress">Email Address</string>
+    <string name="mobileNum">Mobile Number</string>
+    <string name="gender">Gender</string>
+    <string name="password">Password</string>
+    <string name="logout">Log out</string>
+    <string name="previousUser">Already Registered? Click Here</string>
+    <string name="userprofile">Profile</string>
+    <string name="newUser">Don\'t have an account Yet?Click here</string>
+    <string name="forget">Forgot PassWord?</string>
+</resources>
